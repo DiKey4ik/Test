@@ -1,15 +1,14 @@
 //
-//  main.c
+//  bobr.h
 //  Test
 //
 //  Created by Dmitry Kostuk on 27.10.2024.
 //  Copyright © 2024 Dmitry Kostuk. All rights reserved.
 //
 
+#ifndef bobr_h
+#define bobr_h
+
 #include <stdio.h>
 
-int main() {
-    printf("BOBR KURWA\n");
-    printf("Ya PERDOLI!\n");
-    return 0;
-}
+#endif /* bobr_h */
