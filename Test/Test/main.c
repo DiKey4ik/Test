@@ -11,5 +11,6 @@
 int main() {
     printf("BOBR KURWA\n");
     printf("Ya PERDOLI!\n");
+    printf("SYKA\n");
     return 0;
 }
